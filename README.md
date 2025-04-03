@@ -15,10 +15,10 @@ Este Trabajo Práctico consiste en el desarrollo de un portfolio personal respon
 
 ### Repositorio y Publicación
 
-- [ ] Repositorio en GitHub creado
-- [ ] Proyecto subido al repositorio
-- [ ] Proyecto publicado utilizando GitHub Pages
-- [ ] En el "README.md" se indica la URL de GitHub Pages
+- [x] Repositorio en GitHub creado
+- [x] Proyecto subido al repositorio
+- [x] Proyecto publicado utilizando GitHub Pages
+- [x] En el "README.md" se indica la URL de GitHub Pages
 
 ### Uso de Google Fonts
 
